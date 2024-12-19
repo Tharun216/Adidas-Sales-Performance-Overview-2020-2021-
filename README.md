@@ -10,12 +10,11 @@ Adidas has achieved impressive performance results for 2020-2021, and this dashb
 
 🔍 Top Insights:
 
-🏆 Retail Success: West Gear and Foot Locker lead in operating profit, contributing over 49% of the total.
+🏆 Retail Success: West Gear and Foot Locker lead in operating profit, contributing over 49%.
 👟 Product Demand: Men's Street Footwear dominated sales with 0.59M units sold.
-🛒 Sales Methods: Online sales excelled with $356.64M (39.63%) share—highlighting the growing digital demand.
+🛒 Sales Methods: Online sales excelled with a $356.64M (39.63%) share—highlighting the growing digital demand.
 🏙️ City Highlights: Charleston and New York topped city-level sales with $40M each.
-It's clear that a well-rounded strategy across products, channels, and regions can drive profitability even in a dynamic environment.
 
-🤔 Which insights do you find most surprising? Are you seeing similar trends in your own data? Share your thoughts below! 👇
+A well-rounded strategy across products, channels, and regions can drive profitability even in a dynamic environment.
 
 #DataAnalytics 📊 #SalesPerformance 📈 #Adidas 👟 #BusinessGrowth 🚀 #DataDrivenInsights 💡
